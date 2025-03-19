@@ -14,4 +14,3 @@ Matplotlib: per la creazione di grafici e visualizzazioni.
 Seaborn: per migliorare l'aspetto grafico e rendere più chiara l'interpretazione dei dati.
 Plotly: per creare visualizzazioni interattive e dinamiche, che consentono di esplorare i dati in modo più approfondito.
 
-.
