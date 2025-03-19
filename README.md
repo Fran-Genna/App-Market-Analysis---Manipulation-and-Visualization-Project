@@ -3,7 +3,7 @@ Questo è il primo progetto Python realizzato nell'ambito del corso della scuola
 L'obiettivo del progetto è analizzare il mercato delle applicazioni mobili, esplorando le categorie, i generi e altre caratteristiche delle app disponibili. I dati analizzati sono stati raccolti e trattati utilizzando le librerie Pandas, Matplotlib e Seaborn.
 
 # Cosa fa il progetto
-Il progetto esegue un'analisi dei dati relativi al mercato delle app, suddividendo le applicazioni per categorie e generi. Vengono create visualizzazioni per facilitare la comprensione dei trend del mercato, come la distribuzione delle app per categorie, la valutazione media per categoria, la correlazione tra prezzo e popolarità e altro.
+Il progetto esegue un'analisi dei dati relativi al mercato delle app. Vengono create visualizzazioni per facilitare la comprensione dei trend del mercato, come la distribuzione delle app per categorie, la valutazione media per categoria, la correlazione tra prezzo e popolarità e altro.
 
 # Fonte dei dati
 I dati utilizzati in questo progetto sono tratti dal dataset Kaggle relativo alle app mobili
