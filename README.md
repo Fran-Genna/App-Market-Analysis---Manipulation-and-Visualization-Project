@@ -9,8 +9,8 @@ L'obiettivo del progetto è fornire un'analisi approfondita dei dati delle app A
 I dati utilizzati in questo progetto sono tratti dal dataset Kaggle relativo alle app mobili
 
 # Librerie utilizzate
-Pandas: per il trattamento e la manipolazione dei dati.
-Matplotlib: per la creazione di grafici e visualizzazioni.
-Seaborn: per migliorare l'aspetto grafico e rendere più chiara l'interpretazione dei dati.
+Pandas: per il trattamento e la manipolazione dei dati.   
+Matplotlib: per la creazione di grafici e visualizzazioni.   
+Seaborn: per migliorare l'aspetto grafico e rendere più chiara l'interpretazione dei dati.    
 Plotly: per creare visualizzazioni interattive e dinamiche, che consentono di esplorare i dati in modo più approfondito.
 
