@@ -1,7 +1,7 @@
 # Analisi Mercato App - Primo Progetto Python
 Questo è il primo progetto Python realizzato nell'ambito del corso della scuola **Start2Impact**.  
-L'obiettivo del progetto è fornire un'analisi approfondita dei dati delle app Android, al fine di supportare il processo decisionale nella creazione di una nuova app. I dati utilizzati provengono da due dataset principali:
-**Dataset App (df)**: contiene informazioni sulle app Android, come il nome, la categoria, le recensioni, la dimensione, le installazioni, il tipo, il prezzo e altro.
+L'obiettivo del progetto è fornire un'analisi approfondita dei dati delle app Android, al fine di supportare il processo decisionale nella creazione di una nuova app. I dati utilizzati provengono da due dataset principali:   
+**Dataset App (df)**: contiene informazioni sulle app Android, come il nome, la categoria, le recensioni, la dimensione, le installazioni, il tipo, il prezzo e altro.    
 **Dataset Recensioni (Gr)**: contiene recensioni tradotte delle app con informazioni sul sentiment, polarità e soggettività delle recensioni.
 
 
