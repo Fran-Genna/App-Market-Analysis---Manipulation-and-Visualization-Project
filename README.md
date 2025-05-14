@@ -1,15 +1,17 @@
-# Analisi Mercato App - Primo Progetto Python
-Questo è il primo progetto Python realizzato nell'ambito del corso della scuola **Start2Impact**.  
-L'obiettivo del progetto è fornire un'analisi approfondita dei dati delle app Android, al fine di supportare il processo decisionale nella creazione di una nuova app. I dati utilizzati provengono da due dataset principali:   
-**Dataset App (df)**: contiene informazioni sulle app Android, come il nome, la categoria, le recensioni, la dimensione, le installazioni, il tipo, il prezzo e altro.    
-**Dataset Recensioni (Gr)**: contiene recensioni tradotte delle app con informazioni sul sentiment, polarità e soggettività delle recensioni.
+# App Market Analysis - Manipulation and Visualization Project
+This is the first Data Manipulation and Visualization project realised as part of the course with **Start2Impact**, using Python.  
+
+The aim of the project is to provide an in-depth analysis of Android app data in order to support decision-making in the creation of a new app. The data used comes from two main datasets:   
+**Dataset App (df)**: contains information on Android apps, such as name, category, reviews, size, installations, type, price and more.    
+**Dataset Recensioni (Gr)**: contains translated app reviews with information on the sentiment, polarity and subjectivity of the reviews.
 
 
-# Fonte dei dati
-I dati utilizzati in questo progetto sono tratti dal dataset Kaggle relativo alle app mobili
+# Data source
+The data used in this project are taken from the Kaggle dataset on mobile apps
 
-# Librerie utilizzate
-Pandas: per il trattamento e la manipolazione dei dati.   
-Matplotlib, Seaborn e Plotly: per la creazione di grafici e visualizzazioni, migliorare l'aspetto grafico e rendere più chiara l'interpretazione dei dati.
+# Libraries used
+Pandas: for the processing and manipulation of data.  
+Matplotlib, Seaborn e Plotly: to create graphs and visualisations, improve the graphical appearance and make the interpretation of data clearer.
+
 
 
