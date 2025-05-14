@@ -1,4 +1,4 @@
-# App Market Analysis - Manipulation and Visualization Project
+# App Market Analysis - Data Manipulation and Visualization Project
 This is the first Data Manipulation and Visualization project realised as part of the course with **Start2Impact**, using Python.  
 
 The aim of the project is to provide an in-depth analysis of Android app data in order to support decision-making in the creation of a new app. The data used comes from two main datasets:   
